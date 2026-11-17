@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # F1 Engineering and Data Analytics Portfolio
 
 The six projects from the screenshots in `screenshots/`, sorted into two folders:
@@ -12,7 +11,3 @@ The six projects from the screenshots in `screenshots/`, sorted into two folders
 pip install -r requirements.txt
 python run_all.py
 ```
-=======
-# F1_Project_python
-Set of Python Project with real life F1 Data 
->>>>>>> 248cccf1c8cf2956f025966a5ea8bc65b18aca72
